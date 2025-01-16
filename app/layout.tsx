@@ -19,11 +19,15 @@ export default function RootLayout({
         <script
           src="https://kit.fontawesome.com/7c5b46bc02.js"
           crossOrigin="anonymous"
+          async
         ></script>
       </head>
       <body>
         {children}
-        <script src="https://cdn.jsdelivr.net/npm/@vogelweb/cursor-js@1.0.6/dist/min/cursor.js"></script>
+        <script
+          src="https://cdn.jsdelivr.net/npm/@vogelweb/cursor-js@1.0.6/dist/min/cursor.js"
+          defer
+        ></script>
       </body>
     </html>
   );
