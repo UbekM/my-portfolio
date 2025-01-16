@@ -21,7 +21,7 @@ const About = () => {
           As a seasoned Frontend Developer and Graphic Designer, I help
           businesses and individuals create stunning digital experiences that
           drive results. With expertise in website development and graphic
-          design, I'll work closely with you to bring your vision to life.{" "}
+          design, I&apos;ll work closely with you to bring your vision to life.{" "}
           <br />
           <br />
           Contact me today to schedule a consultation and discover how we can

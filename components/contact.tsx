@@ -10,7 +10,7 @@ const Contact = () => {
       <ButtonBody rounded="rounded-[10px]">
         <div className="lg:p-6 lg:px-3 p-3 px-0 space-y-4">
           <h3 className="tracking-widest text-gray-500">GET IN TOUCH</h3>
-          <p className="text-3xl">Let's Discuss Projects</p>
+          <p className="text-3xl">Let&apos;s Discuss Projects</p>
           <p className="text-gray-400 text-[0.85rem] pb-3">
             Get in touch with us for any kind of help. We are here to give you
             the best and also here to help you to find your projects.
@@ -73,7 +73,7 @@ const Contact = () => {
       </ButtonBody>
       <div className="pb-16 lg:pl-20">
         <h2 className="text-2xl font-medium pb-6 ">
-          Let's Discuss Your Project
+          Let&apos;s Discuss Your Project
         </h2>
         <div className="space-y-6">
           <div className="flex gap-3">

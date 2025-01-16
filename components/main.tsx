@@ -15,7 +15,9 @@ const Main = () => {
       />
       <div className="lg:w-1/3  bg-[#91FF00] lg:h-full h-40 order-2 lg:absolute top-0 right-0" />
       <div className="lg:pb-0 pb-[26rem] px-7 sm:place-self-center lg:place-self-start">
-        <h1 className="text-6xl font-medium lg:pt-64 pt-32">I'm Michael</h1>
+        <h1 className="text-6xl font-medium lg:pt-64 pt-32">
+          I&apos;m Michael
+        </h1>
         <div className=" my-6 w-fit text-[1.3rem] p-1 bg-[#91FF00]">
           <div className="p-1 px-4 bg-[#FEEEB7]">
             <p className="text-black font-extrabold">

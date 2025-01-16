@@ -59,7 +59,7 @@ const Navbar = () => {
         </ul>
         <button className="px-5 py-3  rounded-[.3rem] text-xs bg-black hidden lg:block">
           <a href="https://calendly.com/ubekmichael" target="_blank">
-            Let's Meet
+            Let&apos;s Meet
           </a>
         </button>
         <Button

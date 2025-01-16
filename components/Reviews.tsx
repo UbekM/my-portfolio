@@ -51,7 +51,7 @@ const Reviews = () => {
       <div className="md:px-36 px-10 pb-5">
         <h2 className="font-medium text-5xl">What People Say</h2>
         <p className="py-3 text-lg text-gray-400 pb-10">
-          Here's what people have to say
+          Here&apos;s what people have to say
         </p>
       </div>
       {[false, true].map((reverseDirection, index) => (

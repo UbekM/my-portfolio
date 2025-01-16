@@ -1,13 +1,11 @@
 /** @format */
 
-import React from "react";
-
-const bar = new Cursor({
+new Cursor({
   type: 18,
   color: "black",
   textColor: "black",
-  text: "Only 25 char with space.",
-  imageText: "Yep! 25 chars are allowed",
+  text: "MICHAEL - UBEK - MICHAEL ",
+  imageText: "MICHAEL - UBEK - MICHAEL ",
   selector: "#ENTER_ELEMENT_ID_HERE",
 });
 
