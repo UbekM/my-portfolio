@@ -6,7 +6,7 @@ new Cursor({
   textColor: "black",
   text: "MICHAEL - UBEK - MICHAEL ",
   imageText: "MICHAEL - UBEK - MICHAEL ",
-  selector: "#ENTER_ELEMENT_ID_HERE",
+  selector: "MICHAEL - UBEK - MICHAEL",
 });
 
 export default Cursor;
